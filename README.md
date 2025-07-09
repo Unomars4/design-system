@@ -11,9 +11,6 @@ Makes building projects a little easier, if I don't have to think about the litt
 
 ## Fonts 📘
 
-- Josefin Sans (variable font)
-- Inter
-- Futura
 
 ## Contributing
 
